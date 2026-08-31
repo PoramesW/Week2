@@ -1,0 +1,6 @@
+{
+  "name": "เครื่องมือแปลงสกุลเงิน (Currency Converter)",
+  "description": "ระบบคำนวณและแปลงอัตราแลกเปลี่ยนสกุลเงินแบบสองทิศทาง พร้อมประวัติการแปลงเงินย้อนหลัง 10 รายการ และแสดงเวลาอัปเดตล่าสุด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
